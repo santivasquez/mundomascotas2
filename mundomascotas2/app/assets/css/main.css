@@ -2133,7 +2133,7 @@
 	}
 
 		header.major:after {
-			background: #e44c65;
+			background: #60D0D6;
 			content: '';
 			display: inline-block;
 			height: 0.2em;
@@ -3333,7 +3333,7 @@
 	#banner {
 		background-attachment: fixed;
 		background-color: #60D0D6;
-		background-image: url("../assets/images/perro1.jpg");
+		background-image: url("../../images/banner.jpg");
 		background-position: center center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
@@ -3352,7 +3352,7 @@
 		}
 
 		#banner:after {
-			background-image: -moz-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("../assets/images/logo.png");;
+			background-image: -moz-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
 			background-image: -webkit-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
 			background-image: -ms-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
 			background-image: linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
@@ -3413,7 +3413,7 @@
 /* Footer */
 
 	#footer {
-		background: #60D0D6;
+		background: #272833;
 		padding: 6em 0;
 		text-align: center;
 	}
@@ -3751,7 +3751,7 @@
 				top: 0;
 				width: 100%;
 				z-index: 10001;
-				background: #60D0D6;
+				background: #272833;
 				box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
 			}
 
@@ -3790,7 +3790,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background: #60D0D6;
+						background: #e44c65;
 						color: rgba(255, 255, 255, 0.5);
 						content: '\f0c9';
 						display: block;
